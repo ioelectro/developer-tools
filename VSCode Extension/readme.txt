@@ -1,0 +1,1 @@
+For install just extract to "%USERPROFILE%\.vscode\extensions"
